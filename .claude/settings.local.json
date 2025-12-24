@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip:*)",
+      "Bash(npx create-next-app@latest:*)",
+      "Bash(npm install:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(timeout /t 5)",
+      "Bash(copy \"D:\\\\welbuilt\\\\WelBuilt-Website-1\\\\assets\\\\7.png\" \"D:\\\\welbuilt\\\\WelBuilt-Website-1\\\\welbuilt-website\\\\public\\\\images\\\\about-visual.png\")"
+    ]
+  }
+}
